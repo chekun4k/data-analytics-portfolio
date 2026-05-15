@@ -3,7 +3,7 @@
 Проект по оценке эффективности 218 email-кампаний (24 признака).
 
 ## Полный анализ на Python
-[Открыть Jupyter Notebook](Маркейтинговый анализ email-рассылок.ipynb)
+[Открыть Jupyter Notebook](https://github.com/chekun4k/data-analytics-portfolio/blob/main/Маркейтинговый%20анализ%20email-рассылок/Маркейтинговый%20анализ%20email-рассылок.ipynb)
 
 ## Дашборд
 [Открыть в DataLens](https://datalens.yandex/tnl3nvv3xrmqd?_theme=light)
